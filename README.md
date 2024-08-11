@@ -14,17 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Information Science and Engineeri
   - Exploring Python for Machine Learning and AI.
   - Diving into field of Web Development.
 
-## 📚 Projects
-
-### [Placement Management System](https://github.com/yourusername/placement-management-system)
-A web application developed using HTML, CSS, PHP, and MySQL to manage student placements within educational institutions. Features include student profile management, job postings, and placement drive scheduling.
-
-### [Interactive Netflix Dashboard](https://github.com/yourusername/netflix-dashboard)
-A Power BI dashboard created to analyze and visualize Netflix data, providing insights into content trends and viewer preferences.
-
-### [D App for Voting with Blockchain Security](https://github.com/yourusername/blockchain-voting)
-A decentralized application (DApp) that leverages blockchain technology to ensure secure and transparent voting processes.
-
 ## 🛠️ Tools & Technologies
 
 - **Web Development**: HTML, CSS, JavaScript, Bootstrap
