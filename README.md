@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Information Science and Engineeri
 - 🎓 **Education**: Bachelor of Engineering in Information Science and Engineering
 - 💻 **Skills**: 
   - **Programming Languages**: C, Java, C++, Python, HTML, CSS, JavaScript
-  - **Technologies**: Power BI, Tableau, Excel, Pandas(Python), Visual Studio Code
+  - **Technologies**: Power BI, Tableau, Excel, Pandas, NumPy, Visual Studio Code
   - **Databases**: MySQL, MongoDB
 - 🎯 **Current Focus**: 
   - Interactive dashboards with Power BI, Tableau.
