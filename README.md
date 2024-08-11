@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Rakshita A Bhoj]
+# Hi there! 👋 I'm Rakshita A Bhoj
 
 Welcome to my GitHub profile! I'm a passionate Information Science and Engineering student with a strong interest in AI and ML, Data Analysis, and Web Development. Here, you'll find a collection of my projects, contributions, and learning experiences.
 
